@@ -1,0 +1,50 @@
+ Take me to room 1, 0, 6.
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.0.0
+ Take me to room one zero six.
+ Take me to room 1, 0, 6
+ Take me to room 1-C.C.C.C.C.C.C.C.C.C.C.C.C
+ Take me to room 1-0-6.
+ Take me to room 1.C.C.C.C.C.C.C.C.C.C.C.C.C
+ Take me to room 1-0-6
+ Take me to room one zero six
+ Take me to room 1-C-C-C-C-C-C-C-C-C-C-C-C-C
+ Take me to room 1-0-0-0-0-0-0-0-0-0-0-0-0-0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.0.
+ Take me to room 1.0.0.0.0.0.0.1.0.0.0.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0.1.0.0.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0.0.1.0.0.0.0
+ Take me to room 1.0.0.0.0.0.1.0.0.0.0.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.1.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0. 0.0.0.0.0.0
+ Take me to room 1-C.C.C.C.C.C.C.C.C.C.C.C.
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.1.0.0
+ Take me to room 1.0.0.0.0.0.0.0.0. 0.0.0.0.0
+ Take me to room 1.0.0.0.0.0.0. 0.0.0.0.0.0.0
+ Take me to room 1.0.6
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.1.0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.
+ Take me to room 1.0.0.0.0.0.0.0.0.0. 0.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.0.1
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.0
+ Take me to room 1.0.0.0.0.1.0.0.0.0.0.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0. 0.0.0
+ Take me to room 1.C.C.C.C.C.C.C.C.C.C.C.C.
+ Take me to room 1-C.C.C.C.C. C.C.C.C.C.C.C.C
+ Take me to room 1.0.0.0.0.0. 0.0.0.0.0.0.0.0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0. 0.0
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.0.0. 0
+ Take me to room 1-C.C.C.C.C.C. C.C.C.C.C.C.C
+ Take me to room 1-C.C.C.C.C.C.C.C.C.C.C.
+ Take me to room 1-C.C.C.C!C!C!C!C!C!C!C!C!C
+ Take me to room 1.C.C.C.C.C.C. C.C.C.C.C.C.C
+ Take me to room 1.C.C.C.C.C. C.C.C.C.C.C.C.C
+ Take me to room 1.0.0.0.0. 0.0.0.0.0.0.0.0.0
+ Take me to room 1-C.C.C.C.C.C.C. C.C.C.C.C.C
+ Take me to room 1-C.C.C.C. C.C.C.C.C.C.C.C.C
+ Take me to room 1, 0, 0, 6.
+ Take me to room 1.C.C.C.C.C.C.C. C.C.C.C.C.C
+ Take me to room 1.C.C.C.C.C.C.C.C.C.C.C.
+ Take me to room 1.0.0.0.0.0.0.0.0.0.0.
+ Take me to room 1-C.C.C.C.C.C.C.C. C.C.C.C.C
+ Take me to room 1-C.C.C.C.C.C.C.C.C.C.
+ Take me to room 1.C.C.C.C.C.C.C.C. C.C.C.C.C

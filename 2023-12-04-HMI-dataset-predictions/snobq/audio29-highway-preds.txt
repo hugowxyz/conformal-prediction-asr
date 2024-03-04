@@ -1,0 +1,50 @@
+ Do you know what I'm supposed to do? Do you know what I'm supposed to do? Do you know what I'm supposed to do?
+ Do you know who's supposed to be? Do you know who's supposed to be? Do you know who's supposed to be?
+ Do you know what I'm saying? Do you know what I'm saying? Do you know what I'm saying? Do you know what I'm saying
+ Do you know who's supposed to be? Do you know who's supposed to be? Do you know who's supposed to be? Do you know who
+ Please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2
+ Do you know what I'm supposed to do? Do you know what I'm supposed to do? Do you know what I'm supposed to do? Do
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1
+ 2, 3, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1
+ 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2
+ 2, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2
+ 2, 3, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2
+ Do you know what I'm saying? Do you know what I'm saying? Do you know what I'm saying?
+ Please, please, please, please, please, please, please, please, please, please, please, please, please, please, please,
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 2
+ 2, 3, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2
+ 2, 2, 1, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 2
+ 2, 3, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2
+ 2, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 2, 1, 2
+ 2, 3, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2, 1, 2
+ 2, 3, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2
+ 2, 2, 3, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2, 1, 2, 1, 2
+ 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 2
+ 2, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 2, 2
+ Please, please, please, please, please, please, please, please, please, please, please, please, please, please, please
+ 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2
+ 2, 3, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2
+ 2, 3, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 2
+ 2, 3, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 2
